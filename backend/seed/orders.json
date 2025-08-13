@@ -1,0 +1,5 @@
+[
+  { "orderId": "O-1001", "value_rs": 800,  "routeId": "R-101", "deliveryTimestamp": "2025-08-13T07:30:00.000Z" },
+  { "orderId": "O-1002", "value_rs": 1200, "routeId": "R-102", "deliveryTimestamp": "2025-08-13T08:00:00.000Z" },
+  { "orderId": "O-1003", "value_rs": 600,  "routeId": "R-103", "deliveryTimestamp": "2025-08-13T08:30:00.000Z" }
+]

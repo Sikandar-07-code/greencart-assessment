@@ -1,0 +1,5 @@
+[
+  { "name": "Asha", "currentShiftHours": 0, "past7DayHours": [7,8,6,9,7,8,9] },
+  { "name": "Ravi", "currentShiftHours": 0, "past7DayHours": [6,7,8,8,7,6,7] },
+  { "name": "Meera", "currentShiftHours": 0, "past7DayHours": [8,9,9,8,7,6,5] }
+]
